@@ -1,0 +1,27 @@
+[
+  {
+    "alternateId": 101112,
+    "numberField": 404,
+    "hashCode": "jkl"
+  },
+  {
+    "alternateId": 123,
+    "numberField": 101,
+    "hashCode": "abc"
+  },
+  {
+    "alternateId": 456,
+    "numberField": 202,
+    "hashCode": "def"
+  },
+  {
+    "alternateId": 789,
+    "numberField": 303,
+    "hashCode": "ghi"
+  },
+  {
+    "alternateId": 131415,
+    "numberField": 505,
+    "hashCode": "mno"
+  }
+]

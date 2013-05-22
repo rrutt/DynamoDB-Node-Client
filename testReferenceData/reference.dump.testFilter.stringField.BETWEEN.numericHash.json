@@ -1,0 +1,12 @@
+[
+  {
+    "numberField": 303,
+    "hashId": 789,
+    "stringField": "ghi"
+  },
+  {
+    "numberField": 404,
+    "hashId": 101112,
+    "stringField": "jkl"
+  }
+]

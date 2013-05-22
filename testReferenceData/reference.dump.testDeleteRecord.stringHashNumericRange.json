@@ -1,0 +1,68 @@
+[
+  {
+    "rangeId": 1011,
+    "alternateCode": "a1",
+    "hashCode": "123",
+    "stringField": "abc-a1"
+  },
+  {
+    "rangeId": 1012,
+    "alternateCode": "a2",
+    "hashCode": "123",
+    "stringField": "abc-a2"
+  },
+  {
+    "rangeId": 1021,
+    "alternateCode": "b1",
+    "hashCode": "123",
+    "stringField": "abc-b1"
+  },
+  {
+    "rangeId": 1022,
+    "alternateCode": "b2",
+    "hashCode": "123",
+    "stringField": "abc-b2"
+  },
+  {
+    "rangeId": 2011,
+    "alternateCode": "a1",
+    "hashCode": "456",
+    "stringField": "def"
+  },
+  {
+    "rangeId": 2021,
+    "alternateCode": "b1",
+    "hashCode": "456",
+    "stringField": "abc-b1"
+  },
+  {
+    "rangeId": 2023,
+    "alternateCode": "b3",
+    "hashCode": "456",
+    "stringField": "abc-b1"
+  },
+  {
+    "rangeId": 2024,
+    "alternateCode": "b4",
+    "hashCode": "456",
+    "stringField": "abc-b2"
+  },
+  {
+    "rangeId": 303,
+    "alternateCode": "a1",
+    "hashCode": "789",
+    "stringField": "ghi"
+  },
+  {
+    "rangeId": 505,
+    "alternateCode": "a1",
+    "hashCode": "131415",
+    "stringField": "mno"
+  },
+  {
+    "rangeId": 404,
+    "alternateCode": "a1",
+    "hashCode": "101112",
+    "stringField": "jkl"
+  }
+]

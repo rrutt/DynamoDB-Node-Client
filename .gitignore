@@ -1,0 +1,6 @@
+alternator*.db
+Alternator*.db
+*.log
+node_modules
+robots.txt
+dump.*.json

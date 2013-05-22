@@ -1,0 +1,32 @@
+[
+  {
+    "rangeId": 2011,
+    "alternateCode": "a1",
+    "hashId": 456,
+    "stringField": "def"
+  },
+  {
+    "rangeId": 2021,
+    "alternateCode": "b1",
+    "hashId": 456,
+    "stringField": "abc-b1"
+  },
+  {
+    "rangeId": 2022,
+    "alternateCode": "b2",
+    "hashId": 456,
+    "stringField": "abc-b2"
+  },
+  {
+    "rangeId": 2023,
+    "alternateCode": "b3",
+    "hashId": 456,
+    "stringField": "abc-b1"
+  },
+  {
+    "rangeId": 2024,
+    "alternateCode": "b4",
+    "hashId": 456,
+    "stringField": "abc-b2"
+  }
+]

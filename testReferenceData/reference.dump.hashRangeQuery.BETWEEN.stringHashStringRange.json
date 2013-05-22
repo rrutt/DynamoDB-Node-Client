@@ -1,0 +1,14 @@
+[
+  {
+    "numberField": 2022,
+    "hashCode": "456",
+    "rangeCode": "b2",
+    "stringField": "abc-b2"
+  },
+  {
+    "numberField": 2023,
+    "hashCode": "456",
+    "rangeCode": "b3",
+    "stringField": "abc-b1"
+  }
+]

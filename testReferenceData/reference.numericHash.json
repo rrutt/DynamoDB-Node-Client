@@ -1,0 +1,27 @@
+[
+  {
+    "numberField": 101,
+    "hashId": 123,
+    "stringField": "abc"
+  },
+  {
+    "numberField": 202,
+    "hashId": 456,
+    "stringField": "def"
+  },
+  {
+    "numberField": 303,
+    "hashId": 789,
+    "stringField": "ghi"
+  },
+  {
+    "numberField": 505,
+    "hashId": 131415,
+    "stringField": "mno"
+  },
+  {
+    "numberField": 404,
+    "hashId": 101112,
+    "stringField": "jkl"
+  }
+]

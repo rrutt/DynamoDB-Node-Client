@@ -1,0 +1,68 @@
+[
+  {
+    "numberField": 1011,
+    "hashId": 123,
+    "rangeCode": "a1",
+    "stringField": "abc-a1"
+  },
+  {
+    "numberField": 1012,
+    "hashId": 123,
+    "rangeCode": "a2",
+    "stringField": "abc-a2"
+  },
+  {
+    "numberField": 1021,
+    "hashId": 123,
+    "rangeCode": "b1",
+    "stringField": "abc-b1"
+  },
+  {
+    "numberField": 1022,
+    "hashId": 123,
+    "rangeCode": "b2",
+    "stringField": "abc-b2"
+  },
+  {
+    "numberField": 2011,
+    "hashId": 456,
+    "rangeCode": "a1",
+    "stringField": "def"
+  },
+  {
+    "numberField": 2021,
+    "hashId": 456,
+    "rangeCode": "b1",
+    "stringField": "abc-b1"
+  },
+  {
+    "numberField": 2022,
+    "hashId": 456,
+    "rangeCode": "b2",
+    "stringField": "abc-b2"
+  },
+  {
+    "numberField": 2023,
+    "hashId": 456,
+    "rangeCode": "b3",
+    "stringField": "abc-b1"
+  },
+  {
+    "numberField": 2024,
+    "hashId": 456,
+    "rangeCode": "b4",
+    "stringField": "abc-b2"
+  },
+  {
+    "numberField": 505,
+    "hashId": 131415,
+    "rangeCode": "a1",
+    "stringField": "mno"
+  },
+  {
+    "numberField": 404,
+    "hashId": 101112,
+    "rangeCode": "a1",
+    "stringField": "jkl"
+  }
+]

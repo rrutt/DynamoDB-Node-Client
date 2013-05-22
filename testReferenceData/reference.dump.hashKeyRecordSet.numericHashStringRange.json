@@ -1,0 +1,26 @@
+[
+  {
+    "numberField": 1011,
+    "hashId": 123,
+    "rangeCode": "a1",
+    "stringField": "abc-a1"
+  },
+  {
+    "numberField": 1012,
+    "hashId": 123,
+    "rangeCode": "a2",
+    "stringField": "abc-a2"
+  },
+  {
+    "numberField": 1021,
+    "hashId": 123,
+    "rangeCode": "b1",
+    "stringField": "abc-b1"
+  },
+  {
+    "numberField": 1022,
+    "hashId": 123,
+    "rangeCode": "b2",
+    "stringField": "abc-b2"
+  }
+]

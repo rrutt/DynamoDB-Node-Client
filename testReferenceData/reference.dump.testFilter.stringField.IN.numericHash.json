@@ -1,0 +1,12 @@
+[
+  {
+    "numberField": 202,
+    "hashId": 456,
+    "stringField": "def"
+  },
+  {
+    "numberField": 505,
+    "hashId": 131415,
+    "stringField": "mno"
+  }
+]
