@@ -1,6 +1,6 @@
 {
   "name": "DynamoDbNodeClient",
-  "version": "2015.05.22",
+  "version": "2013.08.12",
   "author": "Rick Rutt",
   "description": "Example Node.js AWS-SDK client with integration tests using Alternator emulator.",
   "contributors": [],
