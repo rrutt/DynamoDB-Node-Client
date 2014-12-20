@@ -45,15 +45,10 @@ Enter this command:
 ### Running the Integration Tests
 
 Open a terminal console window and navigate to the root folder of your **DynamoDB-Node-Client** cloned repository.
-Enter one of the following commands:
+Enter the following command:
 
-(For Windows)
 
-    RunAlternator.bat
-
-(For Linux or MacOSX)
-
-    bash RunAltenator.sh
+    mvn exec:java
 
 The emulator should start and display various debug progress messages.
 
